@@ -33,6 +33,8 @@ TODO: insert short video of me using anki deck??
 
 **Reviews**: the max number of old cards which you can review each day for a specific deck
 
+**Options Group**: Settings for a specific deck/subdeck - most importantly includes the amount of new cards and reviews for that deck
+
 **Note**: A collection of related information which relates to something we are learning. In our case, this would be a bunch of info relating to a specific chinese vocab.
 
 **Card**: A single flashcard which uses some information from a note. Often a single note has multiple cards, e.g in my deck, we have separate cards for testing reading, writing and definition recall. If you decide to edit/suspend/delete a card, make sure that you don't get note and card mixed up and end up deleting more than you intended to.
