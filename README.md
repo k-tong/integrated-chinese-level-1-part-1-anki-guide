@@ -52,9 +52,10 @@ If any other terms come up, you can find more details about what everything does
 My deck has tags marked with Z mean that they are words introduced in that chapter but not words part of the main vocabulary list. It would be a good idea to skip/suspend/bury some of these cards if you don't think they are useful. You can see all of these cards using the Card Browser (and filter for specific tags if necessary)
 
 Subdecks are rearranged into 3 subdecks:
-    - audio -> word (Character): 
-    - definition -> word (Pinyin):  
-    - reading -> definition: 
+
+ - audio -> word (Character): 
+ - definition -> word (Pinyin):  
+ - reading -> definition: 
 
 When learning new words, I personally like to study 
 1. reading -> definition first focusing on getting correct definition
@@ -91,7 +92,7 @@ If my deck ends up being horrendously broken and I make a big fix then [this](ht
 
 # How did I get here
 
-I had to make lots of changes to existing decks to make something nice and useful - sadly the nicest deck I could find had traditional characters not simplified so like any good programmer I decided to avoid 1 hour of boring manually searching up (520!) cards! and replacing each traditional character to a simplified character by doing it 
+I had to make lots of changes to existing decks to make them very nice and useful - sadly the nicest deck I could find had traditional characters not simplified so like any good programmer I decided to avoid 1 hour of boring manual work searching up (520!) cards! and replacing each traditional character to a simplified character by doing it 
 
 ✨✨ programatically ✨✨ 
 
