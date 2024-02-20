@@ -26,4 +26,8 @@ https://www.youtube.com/watch?v=TTHpODHBk3U
 
 # How did I get here
 
-Like any good programmer I decided to avoid 1 hour of boring manually searching up and replacing each traditional character to a simplified character by doing it ✨✨ progamatically ✨✨ making it take 5 hours instead 😊 😊 😊 😊 😊.
+Like any good programmer I decided to avoid 1 hour of boring manually searching up and replacing each traditional character to a simplified character by doing it 
+
+✨✨ programatically ✨✨ 
+
+making it take 5 hours instead 😊 😊 😊 😊 😊 (or however long it took idk but it took longer than it should have).
