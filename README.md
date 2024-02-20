@@ -19,7 +19,7 @@ TODO: insert short video of me using anki deck??
    - We can look for decks other people have made [here](https://ankiweb.net/shared/decks)
    - Unfortunately, the pre-existing decks have had some issues so I modified them to make them better
    - Download [Traditional-TODO: insert link] or [Simplified-TODO: insert link] Integrated Chinese Level 1 Part 1 decks
-     - if the link isn't working, download the apkg file accompanied with this README
+     - if the link isn't working, download from [here](https://drive.google.com/file/d/1FtPJJ5nphCynnejm6BamGeVRyMt8pBBJ/view?usp=sharing)
    - I also recommend downloading a [Chinese Radical Anki Deck](https://ankiweb.net/shared/info/842457706) especially if you plan on continuing your chinese studies
    - Import these decks into your anki application
 3. Set up your settings and start studying!
