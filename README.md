@@ -11,6 +11,14 @@ Since I put in the effort to modify an existing Anki deck to work nicely with th
 
 # FAQ
 
+Costs $40 AUD on ios lmaao
+- ankiweb is still free and mobile optimised so you can just use that on ios devices
+- Disadvantages of ankiweb seems to be
+  - cannot edit cards in browser
+  - have to download images/audio each time (so sad for mobile data / is more laggy)
+  - probably a good idea to try using on browser to see if you like it before committing to purchasing the app
+  - There are other flash card options on ios which are free but you are going to have to do your own research and make/find decks for those yourself 😊
+  - Free! on Android 
 
 # Useful Links
 
