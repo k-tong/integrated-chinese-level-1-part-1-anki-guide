@@ -43,7 +43,7 @@ TODO: insert short video of me using anki deck??
 
 **Suspending**: Effectively hiding a card or note
 
-I strongly recommend playing around with a bunch of settings and options to get a better understanding of what things do. It will be greatly beneficial for you as you can make small adjustments based on your preferences so that you can learn better.
+I strongly recommend playing around with a bunch of settings and options to get a better understanding of what things do (and googling things you don't understand! or reading through parts of the Manual). It will be greatly beneficial for you as you can make small adjustments based on your preferences so that you can learn better.
 
 If any other terms come up, you can find more details about what everything does in the [Anki Manual](https://docs.ankiweb.net/studying.html) or alternatively just googling (which is how I made everything here).
 
