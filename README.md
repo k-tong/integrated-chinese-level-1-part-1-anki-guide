@@ -18,7 +18,7 @@ TODO: insert short video of me using anki deck??
 2. Download and Import Anki Decks
    - We can look for decks other people have made [here](https://ankiweb.net/shared/decks)
    - Unfortunately, the pre-existing decks have had some issues so I modified them to make them better
-   - Download [Traditional-TODO: insert link] or [Simplified-TODO: insert link] Integrated Chinese Level 1 Part 1 decks
+   - Download [Traditional Integrated Chinese Level 1 Part 1](https://ankiweb.net/shared/info/847059814?cb=1708440062283) or [Simplified Integrated Chinese Level 1 Part 1](https://ankiweb.net/shared/info/682994432?cb=1708439313290) decks
      - if the link isn't working, download from [here](https://drive.google.com/file/d/1FtPJJ5nphCynnejm6BamGeVRyMt8pBBJ/view?usp=sharing)
    - I also recommend downloading a [Chinese Radical Anki Deck](https://ankiweb.net/shared/info/842457706) especially if you plan on continuing your chinese studies
    - Import these decks into your anki application
@@ -65,6 +65,8 @@ When learning new words, I personally like to study
 Note that all notes have a card for each of the subdecks, some of these cards may not make sense so feel free to delete the card when this occurs. If you do this, make sure to delete/suspend the card and not the note by accident. I like to use custom study to make sure that i'm up to the same word for all 3 subdecks. 
 
 At the start, it would be a good idea to custom study a high number of words so that you can quickly go through all the vocabulary which you have already learnt.
+
+Also, Make sure to set up a Chinese Keyboard on ideally your phone with handwriting so that you can better practise your writing.
 
 # FAQ
 
