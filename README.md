@@ -23,3 +23,7 @@ Costs $40 AUD on ios lmaao
 # Useful Links
 
 https://www.youtube.com/watch?v=TTHpODHBk3U
+
+# How did I get here
+
+Like any good programmer I decided to avoid 1 hour of boring manually searching up and replacing each traditional character to a simplified character by doing it ✨✨ progamatically ✨✨ making it take 5 hours instead 😊 😊 😊 😊 😊.
