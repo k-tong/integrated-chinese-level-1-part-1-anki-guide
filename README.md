@@ -69,10 +69,12 @@ At the start, it would be a good idea to custom study a high number of words so 
 
 Also, Make sure to set up a Chinese Keyboard on ideally your phone with handwriting so that you can better practise your writing.
 
+Also try to predominantly use the same version of anki on a specific device (Android/web/iOS/Desktop) when reviewing cards. Syncing reviews across multiple devices can be a bit annoying and error-prone.
+
 # FAQ
 
 ### Syncing
-- Syncing between different platforms requires making an account so do that.
+- Syncing between different platforms requires making an account so do that. It can also be a bit fiddly.
 
 ### IOS??
 - AnkiWeb is a suitable free alternative to the iOS app so give that a try
@@ -88,6 +90,7 @@ Also, Make sure to set up a Chinese Keyboard on ideally your phone with handwrit
 - I've tried my best to make the cards in the deck correct with ordering matching the lessons but there might still be mistakes
  - let me know what's wrong but it is probably easiest if you manually modify the cards/notes yourself for small mistakes
  - for big mistakes, I might update the deck properly / provide instructions on how to fix
+ - Try to predominantly use the same version of anki on a specific device (Android/web/iOS/Desktop) when reviewing cards. Syncing reviews across multiple devices can be a bit annoying and error-prone.
 
 # Useful Links??
 
