@@ -92,6 +92,10 @@ Also try to predominantly use the same version of anki on a specific device (And
  - for big mistakes, I might update the deck properly / provide instructions on how to fix
  - Try to predominantly use the same version of anki on a specific device (Android/web/iOS/Desktop) when reviewing cards. Syncing reviews across multiple devices can be a bit annoying and error-prone.
 
+# Known Bugs / Errors (Feel free to either correct it yourself or delete it if its a big problem)
+- New York audio seems funky
+- pian4 in zhao4 pian4 has incorrect audio
+
 # Useful Links??
 
 If my deck ends up being horrendously broken and I make a big fix then [this](https://www.youtube.com/watch?v=TTHpODHBk3U) might help?? 
