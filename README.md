@@ -8,7 +8,7 @@ This guide will provide useful links and instructions for setting up Anki and so
 # What is Anki
 Anki is a nifty flash card application which is great for learning vocabulary. Check out more details about how it works [here](https://docs.ankiweb.net/background.html). It makes it easy for us to consistently study **every day** and memorise things better.
 
-When set up, using it might look something like this:
+When set up, using it might look something like this: (turn on sound)
 
 https://github.com/k-tong/integrated-chinese-level-1-part-1-anki-guide/assets/46545281/51fa23e4-f1b2-4662-ba54-c12eb3e0bbe6
 
