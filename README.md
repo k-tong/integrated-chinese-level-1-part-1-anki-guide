@@ -10,7 +10,8 @@ Anki is a nifty flash card application which is great for learning vocabulary. C
 
 When set up, using it might look something like this:
 
-TODO: insert short video of me using anki deck??
+https://github.com/k-tong/integrated-chinese-level-1-part-1-anki-guide/assets/46545281/51fa23e4-f1b2-4662-ba54-c12eb3e0bbe6
+
 # Instructions
 1. Install Anki on [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=US&pli=1) or [iOS](https://apps.apple.com/au/app/ankimobile-flashcards/id373493387)
    - For some reason, it costs **$40 AUD!!** on iOS (free on android 😊😊) but [ankiweb](https://ankiweb.net/decks) still works on a mobile browser and is optimised for it - see more deets in FAQ below
