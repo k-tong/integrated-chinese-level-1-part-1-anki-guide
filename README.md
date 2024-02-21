@@ -74,7 +74,7 @@ Also try to predominantly use the same version of anki on a specific device (And
 # FAQ
 
 ### Syncing
-- Syncing between different platforms requires making an account so do that. It can also be a bit fiddly.
+- Syncing between different platforms requires making an account so do that.
 
 ### IOS??
 - AnkiWeb is a suitable free alternative to the iOS app so give that a try
