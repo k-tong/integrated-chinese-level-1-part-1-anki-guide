@@ -25,7 +25,7 @@ https://github.com/k-tong/integrated-chinese-level-1-part-1-anki-guide/assets/46
    - Import these decks into your anki application
 3. Set up your settings and start studying!
    - Start by Making a general Options Group with a very large new card limit (100) and review limit (1000) and set the main "Integrated Chinese ..." Deck to use these options
-   - Make a general Subdeck Options Group with a smaller card limit (e.g 5) and review limit (e.g 60) and set each of the subdecks to use these options
+   - Make a general Subdeck Options Group with a smaller card limit (e.g 6) and review limit (e.g 60) and set each of the subdecks to use these options
       - if you want, you can make separate option groups for every single deck/subdeck if you want to modify your pace of learning for different decks/components
 
 # General Use Terminology and Tips
