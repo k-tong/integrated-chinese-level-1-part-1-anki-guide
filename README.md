@@ -4,7 +4,7 @@ Since I already put in the effort to modify an existing Anki deck extensively to
 
 😊😊
 
-This guide will provide useful links and instructions for setting up Anki and some useful flash card decks for learning Integrated Chinese 1 Part 1.
+This guide will provide useful links and instructions for setting up Anki and some useful flash card decks for learning Integrated Chinese 1 Part 1. I swear it looks really long but it'll make it a lot easier for you to study - I promise it'll be worth it.
 # What is Anki
 Anki is a nifty flash card application which is great for learning vocabulary. Check out more details about how it works [here](https://docs.ankiweb.net/background.html). It makes it easy for us to consistently study **every day** and memorise things better.
 
@@ -43,6 +43,8 @@ https://github.com/k-tong/integrated-chinese-level-1-part-1-anki-guide/assets/46
 **Custom Study**: Lets you modify the number of new cards and reviews you have to do for just today
 
 **Suspending**: Effectively hiding a card or note
+
+**Leeching**: Cards which you repeatedly get wrong are called leeches (and they will remove it assuming that it's more worth you studying something else instead). You can manually add these back into your deck from browse cards. When studying new cards for the first time, I recommend clicking 'hard' instead of 'again' so that your cards don't end up being leeches when you are learning vocab for the first time.
 
 I strongly recommend playing around with a bunch of settings and options to get a better understanding of what things do (and googling things you don't understand! or reading through parts of the Manual). It will be greatly beneficial for you as you can make small adjustments based on your preferences so that you can learn better.
 
