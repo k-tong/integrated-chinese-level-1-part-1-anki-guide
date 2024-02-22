@@ -22,7 +22,7 @@ https://github.com/k-tong/integrated-chinese-level-1-part-1-anki-guide/assets/46
    - Unfortunately, the pre-existing decks have had some issues so I modified them to make them better
    - Download [Traditional Integrated Chinese Level 1 Part 1](https://ankiweb.net/shared/info/847059814?cb=1708440062283) or [Simplified Integrated Chinese Level 1 Part 1](https://ankiweb.net/shared/info/682994432?cb=1708439313290) decks
      - if the link isn't working, download from [here](https://drive.google.com/file/d/1FtPJJ5nphCynnejm6BamGeVRyMt8pBBJ/view?usp=sharing)
-   - I also recommend downloading a [Chinese Radical Anki Deck](https://ankiweb.net/shared/info/842457706) especially if you plan on continuing your chinese studies
+   - Other helpful decks might include the [Chinese Radical Anki Deck](https://ankiweb.net/shared/info/842457706)
    - Import these decks into your anki application
 3. Set up your settings and start studying!
    - Start by Making a general Options Group with a very large new card limit (100) and review limit (1000) and set the main "Integrated Chinese ..." Deck to use these options
