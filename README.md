@@ -4,7 +4,8 @@ Since I already put in the effort to modify an existing Anki deck extensively to
 
 😊😊
 
-This guide will provide useful links and instructions for setting up Anki and some useful flash card decks for learning Integrated Chinese 1 Part 1. I swear it looks really long but it'll make it a lot easier for you to study - I promise it'll be worth it.
+This guide will provide useful links and instructions for setting up Anki and some useful flash card decks for learning Integrated Chinese 1 Part 1. I swear it looks really long but it'll make it a lot easier for you to study - I promise it'll be worth it. It won't take long to set up and most of this text is just recommendations to use it more effectively.
+
 # What is Anki
 Anki is a nifty flash card application which is great for learning vocabulary. Check out more details about how it works [here](https://docs.ankiweb.net/background.html). It makes it easy for us to consistently study **every day** and memorise things better.
 
