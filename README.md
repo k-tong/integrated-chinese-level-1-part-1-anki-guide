@@ -1,6 +1,6 @@
 # integrated-chinese-level-1-part-1-anki-guide
 
-Since I already put in the effort to modify an existing Anki deck extensively to work nicely with the Integrated Chinese Textbook Vocabulary, I decided that I may as well also be a nice person and write a guide for yall as well. 
+I modified an existing Anki deck extensively to work nicely with the Integrated Chinese Textbook Vocabulary for myself to use and decided that I would be a nice person and write a guide for yall as well. 
 
 😊😊
 
