@@ -96,7 +96,6 @@ Also try to predominantly use the same version of anki on a specific device (And
  - Try to predominantly use the same version of anki on a specific device (Android/web/iOS/Desktop) when reviewing cards. Syncing reviews across multiple devices can be a bit annoying and error-prone.
 
 # Known Bugs / Errors (Feel free to either correct it yourself or delete it if its a big problem)
-- New York audio seems funky
 - pian4 in zhao4 pian4 has incorrect tone in audio
 
 # Useful Links??
